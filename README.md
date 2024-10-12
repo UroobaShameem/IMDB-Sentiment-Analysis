@@ -1,7 +1,3 @@
-Here's a `README.md` file you can use for your GitHub repository:
-
----
-
 # IMDB Movie Reviews Sentiment Analysis
 
 This project is a sentiment analysis of IMDB movie reviews using various text preprocessing techniques and machine learning models. The primary goal is to classify movie reviews as either positive or negative by applying logistic regression on two different feature extraction methods: Bag of Words (BOW) and TF-IDF.
